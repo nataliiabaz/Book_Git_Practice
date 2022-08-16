@@ -3,3 +3,5 @@ The glasses
 some work here
 
 page 2 of my book
+
+I edit page 2 after I commit it.
